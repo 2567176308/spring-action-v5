@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a101db34-3175-4633-9e26-eb39b7538378" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/Ingredient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/IngredientByIdConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/Taco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/TacoCloudApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/data/IngredientRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/data/JdbcIngredientRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/data/JdbcOrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/data/JdbcTacoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/data/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/data/TacoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/web/DesignTacoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tacos/web/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/TacoCloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/design.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/orderForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tacos/TacoCloudApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/images/TacoCloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/Ingredient$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/Ingredient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/IngredientByIdConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/Taco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/TacoCloudApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/data/IngredientRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/data/JdbcIngredientRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/data/JdbcOrderRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/data/JdbcTacoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/data/OrderRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/data/TacoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/web/DesignTacoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tacos/web/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/design.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/orderForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tacos/TacoCloudApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Sq7TdsFzv2fUQBzHHp7LXjPiFn" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/llhh7/IdeaProjects/taco-cloud/taco-cloud",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a101db34-3175-4633-9e26-eb39b7538378" name="Changes" comment="" />
+      <created>1689862270493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689862270493</updated>
+      <workItem from="1689862273039" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
